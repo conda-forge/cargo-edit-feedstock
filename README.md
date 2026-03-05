@@ -7,7 +7,7 @@ Home: https://killercup.github.io/cargo-edit/cargo_edit/index.html
 
 Package license: MIT
 
-Summary: A utility for managing cargo dependencies from the command line. 
+Summary: A utility for managing cargo dependencies from the command line.
 
 Development: https://github.com/killercup/cargo-edit
 
