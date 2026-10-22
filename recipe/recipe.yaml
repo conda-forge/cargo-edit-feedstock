@@ -1,6 +1,6 @@
 context:
   name: cargo-edit
-  version: "0.13.13"
+  version: "0.13.14"
 
 package:
   name: ${{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: "https://github.com/killercup/cargo-edit/archive/v${{ version }}.tar.gz"
-  sha256: fc8c476f3ef1a32b6fb11db2c365fbea25f1face73d1df9ef18318d4be294006
+  sha256: 52f49ea8f76e2caa48d3b57bbcdfe1768268f25ad9a1f07878d9c670488180fb
 
 build:
   number: 0
